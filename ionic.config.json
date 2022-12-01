@@ -1,0 +1,7 @@
+{
+  "name": "hierbApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
